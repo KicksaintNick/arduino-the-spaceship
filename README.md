@@ -19,4 +19,4 @@ One Pushbutton
 Wires to power the components on the breadboard
 
 ######The Breadboard Setup
-![Ensure that your configuration is the same as specified in this image](/content/images/2015/08/The-Spaceship-Hyperdrive.svg)
+![Ensure that your configuration is the same as specified in this image](http://www.nickbester.com/content/images/2015/08/The-Spaceship-Hyperdrive.svg)
